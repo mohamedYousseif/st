@@ -1,0 +1,9 @@
+
+## Vim commmands.
+
+- jump to [Top, Middle, Last] [H,M,L] Commands -> File/Page.
+
+- to do a thing in multiple lines / go into record mode.
+-- press [q,w] and write what you want.
+-- then go to the next line and when you finish typing use [q] to quit.
+-- and use n[@,w] to paste while n is the number of copies you want. 
